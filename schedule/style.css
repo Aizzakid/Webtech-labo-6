@@ -1,0 +1,32 @@
+*{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: black;
+}
+.webtech{
+    background-color: red;
+}
+.database{
+    background-color: blue;
+}
+th{
+    background-color: black;
+    padding: 7px;
+}
+table{
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+.ITEssentials{
+    background-color: blueviolet;
+}
+td{
+    padding: 9px;
+}
+.ITOrganisatie{
+    background-color: rosybrown;
+}
